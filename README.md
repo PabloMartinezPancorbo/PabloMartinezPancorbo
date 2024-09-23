@@ -8,13 +8,13 @@
 PabloMartinezPancorbo/
 
 │
-├── index.html               # Main HTML file for the webpage
-├── css/                    
+├── index.html
+├── css
 │   └── style.css        
 ├── js/                      
 │   └── script.js           
-├── images/                  # Folder for images 
-│   └── tbc.jpg    # Images used in project
+├── images/
+│   └── example.jpg
 └── README.md              
 <!---
 PabloMartinezPancorbo/PabloMartinezPancorbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
